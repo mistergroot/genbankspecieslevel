@@ -4,5 +4,5 @@ This repository contains the data and code used in the Locatelli, McIntyre, Ther
 
 Data is available in fasta format and code is available in the form of a Jupyter Notebook.
 
-Filters implemented in initial data download:
+Filters implemented in initial data download from GenBank:
 Sequence length restricted to 100-2000bp and "environmental" sequences excluded
